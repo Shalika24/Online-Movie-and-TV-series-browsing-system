@@ -1,0 +1,32 @@
+# Eclipse
+.metadata/
+*.classpath
+*.project
+.settings/
+
+# Build
+build/
+bin/
+target/
+
+# Tomcat/Servers
+Servers/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Ignore workspace files
+*.launch
+
+# Ignore uploaded artifacts
+*.war
